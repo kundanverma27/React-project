@@ -1,0 +1,22 @@
+.footer-info {
+
+     display:flex;
+     flex-direction:column;
+     color:white;
+     height: 125px; 
+     background-color:#0b1a2d;
+     width:100%;
+     justify-content:center;
+     align-items:center;
+}
+
+.social-links{
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:50px;
+    box-sizing:border-box;
+    margin:20px;
+
+}
